@@ -1,5 +1,6 @@
 
 # Movie Search Application Documentation
+Project Link - https://ayushkeshwan.github.io/movie-search-application/
 
 This documentation provides an overview of a movie search application implemented using HTML, CSS, and JavaScript.
 
